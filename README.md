@@ -8,9 +8,9 @@ Steps to run the Project
 4. Make the virtual environment
 5. Install the dependencies
 
--> pip install django
--> pip install pillow
--> pip install djangorestframework
+-> pip install django.
+-> pip install pillow.
+-> pip install djangorestframework.
 
 6. Run the project with executing these steps 
 -> python manage.py makemigrations 
